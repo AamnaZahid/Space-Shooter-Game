@@ -3,9 +3,8 @@
 
 
 Welcome to the Space Shooter Game repository! This exciting and immersive game was created as a semester project using C# and Unity. Take on the role of a fearless space rider and embark on an epic journey through the cosmos, battling enemy spaceships and dodging obstacles along the way.
-<img src="https://github.com/AamnaZahid/Images_for_space_shooter_repo/blob/main/Screenshot%20(641).png" alt="Image Alt Text" width="400" height="300">
 
-![Image Alt Text](https://github.com/AamnaZahid/Images_for_space_shooter_repo/blob/main/Screenshot%20(641).png)
+<img src="https://github.com/AamnaZahid/Images_for_space_shooter_repo/blob/main/Screenshot%20(641).png" alt="Image Alt Text" width="500" height="500">
 
 ## Features
 
@@ -28,12 +27,9 @@ To get started with the Space Shooter Game, follow these steps:
 
 ## Screenshots
 
-![Image Alt Text](https://github.com/AamnaZahid/Images_for_space_shooter_repo/blob/main/Screenshot%20(643).png)
+<img src="https://github.com/AamnaZahid/Images_for_space_shooter_repo/blob/main/Screenshot%20(643).png" alt="Image Alt Text" width="500" height="500">
 
-
-![Image Alt Text](https://github.com/AamnaZahid/Images_for_space_shooter_repo/blob/main/Screenshot%20(644).png)
-
-
+<img src="https://github.com/AamnaZahid/Images_for_space_shooter_repo/blob/main/Screenshot%20(644).png" alt="Image Alt Text" width="500" height="500">
 
 ## Contributing
 
