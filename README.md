@@ -12,7 +12,7 @@ Welcome to the Space Shooter Game repository! This exciting and immersive game w
 - Stunning Visuals: Immerse yourself in a visually captivating space environment with vibrant graphics and special effects.
 - Power-Ups and Upgrades: Collect power-ups to enhance your spaceship's abilities and unlock upgrades to become even more formidable.
 - Challenging Enemies: Test your skills against a variety of enemy spaceships, each with unique behaviors and attack patterns.
-- Dynamic Levels: Navigate through dynamically generated levels that offer new challenges and surprises with each playthrough.
+- Restart game: Game can restart once loses.
 - High Scores: Compete with friends and aim for the top of the leaderboard by achieving high scores.
 
 ## Getting Started
