@@ -46,7 +46,9 @@ Open the project in Unity by following these steps:
 
 ## Screenshots
 
-Insert a few visually appealing screenshots showcasing the gameplay, user interface, and any notable features of the game.
+![Screenshot (641)](https://github.com/AamnaZahid/Images_for_space_shooter_repo/blob/main/Screenshot%20(641).png)
+
+![Screenshot (643)](https://github.com/AamnaZahid/Images_for_space_shooter_repo/blob/main/Screenshot%20(643).png)
 
 ## Future Enhancements
 
@@ -59,19 +61,6 @@ Insert a few visually appealing screenshots showcasing the gameplay, user interf
 
 Contributions to the project are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-## License
-
-Specify the license under which the project is shared. For example, "This project is licensed under the [Insert License] License."
-
-## Acknowledgements
-
-- Mention any resources, tutorials, or libraries that you utilized or were inspired by during the development of the game.
-- Thank any individuals or groups who provided support, feedback, or testing during the project.
-
-## Contact
-
-- Provide your contact information, such as email or social media handles, for anyone interested in reaching out or collaborating.
-
-Enjoy the space shooter game, and may your spaceship conquer the stars! 🌟✨
+Enjoy the space shooter game.
 
 #GameDevelopment #SpaceShooterGame #SemesterProject #OpenSource #GitHub
